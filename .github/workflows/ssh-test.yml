@@ -20,5 +20,3 @@ jobs:
           port: ${{ secrets.PORT }}
           script: |
             echo What the fuck!
-            ls -al
-            echo final
