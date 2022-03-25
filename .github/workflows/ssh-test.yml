@@ -21,3 +21,4 @@ jobs:
           script: |
             echo What the fuck!
             ls -al
+            echo final
